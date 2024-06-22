@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Deploy
+(https://app.netlify.com/sites/bespoke-banoffee-38c84d/deploys/66763f42cf35c44d7298f723)
